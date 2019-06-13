@@ -1,0 +1,28 @@
+
+{
+  "assignment": {
+    "title": "Create HTML",
+    "description": "Upload your work for today! Below, you'll find what we expect to be included in your assignment per learning goal",
+    "score": "",
+    "learningGoals": [
+      {
+        "goal": "Use semantic html to create a simple app",
+        "score": "",
+        "laws": [
+          {
+            "description": "`main` is used in the project",
+            "test": "echo 'I AM TEST ONE'",
+            "status": "Broken",
+            "shellOutput": ""
+          },
+          {
+            "description": "`img` is used with the correct attributes",
+            "test": "echo 'I AM TEST TWO'",
+            "status": "Broken",
+            "shellOutput": ""
+          }
+        ]
+      }
+    ]
+  }
+}
