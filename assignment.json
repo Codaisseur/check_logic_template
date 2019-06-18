@@ -17,7 +17,7 @@
           },
           {
             "description": "`img` is used with the correct attributes",
-            "test": "echo 'I AM TEST TWO'",
+            "test": "echosdf 'I AM TEST TWO'",
             "status": "Broken",
             "shellOutput": ""
           }
