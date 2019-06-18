@@ -22,6 +22,24 @@
             "shellOutput": ""
           }
         ]
+      },
+      {
+        "goal": "Use GIT & GitHub for version tracking",
+        "score": "",
+        "laws": [
+          {
+            "description": "`main` is used in the project",
+            "test": "echo 'I AM TEST THREE'",
+            "status": "Broken",
+            "shellOutput": ""
+          },
+          {
+            "description": "`img` is used with the correct attributes",
+            "test": "echo 'I AM TEST FOUR'",
+            "status": "Broken",
+            "shellOutput": ""
+          }
+        ]
       }
     ]
   }
